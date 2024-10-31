@@ -19,7 +19,7 @@ This Python script combines the contents of specified file types from a director
 ### 1. Clone the Repository and Install Dependencies
 
 ```bash
-git clone https://github.com/yourusername/CombineFiles.git
+git clone https://github.com/devnsko/CombineFiles.git
 cd CombineFiles
 python -m venv .venv
 source .venv/bin/activate  # On Windows: .venv\Scripts\activate
